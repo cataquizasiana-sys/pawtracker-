@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /create
+Disallow: /login
+Disallow: /signup
+Disallow: /pet/*/manage
+Sitemap: https://YOUR_DEPLOYED_DOMAIN/sitemap.xml
